@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603081",
+ "ten": "PhiMinhQuan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "mnhquan.p",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000103970.jpg",
+  "000000137767.jpg",
+  "000000261732.jpg",
+  "000000308257.jpg",
+  "000000433787.jpg",
+  "000000090646.jpg",
+  "000000469061.jpg",
+  "000000571665.jpg",
+  "000000163118.jpg",
+  "000000351176.jpg",
+  "000000438099.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_204787.jpg",
+  "face_92028.jpg",
+  "face_145621.jpg",
+  "face_476363.jpg",
+  "face_288853.jpg",
+  "face_324513.jpg",
+  "face_38721.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-PhiMinhQuan"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-PhiMinhQuan"
+  },
+  "persons-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-extra-PhiMinhQuan"
+  },
+  "faces-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-extra-PhiMinhQuan"
+  }
+ },
+ "persons_extra": [
+  "000000065350.jpg",
+  "000000254060.jpg",
+  "000000517702.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_317330.jpg",
+  "face_45276.jpg",
+  "face_494518.jpg",
+  "face_68290.jpg"
+ ]
+}
